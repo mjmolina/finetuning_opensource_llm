@@ -1,5 +1,5 @@
-## PyconUS talk 2024: Guía para “Fine-Tuning” local de modelos Open Source en Español [Spanish]
-### Guide to Fine-tuning Open Source LLM in local set-up.
+## PyconUS talk 2024: Guía para “Fine-Tuning” local de modelos Open Source en Español
+### Guide to Fine-tuning Open Source LLM in local set-up [Spanish]
 
 ### Descripción
 En el mundo actual, los modelos de lenguaje grandes (LLM, en inglés) están revolucionando cómo interactuamos con la tecnología, permitiendo tener conversaciones, organizar datos, redactar textos, y otras actividades con mínimo esfuerzo humano.
