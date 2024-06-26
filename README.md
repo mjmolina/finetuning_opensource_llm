@@ -8,4 +8,3 @@ Es probable que al usar algún LLM hayas recibido respuestas incorrectas ¿a qu�
 
 Entonces, ¿Por qué es necesario entender el “Fine-Tuning” en modelos locales? Dentro de los diversos motivos, uno de los más relevantes es la privacidad de datos. Puesto que al hacer el proceso de “Fine-Tuning” localmente se puede enseñar al modelo datos que son privados, como datos personales, datos clínicos, información confidencial de empresas, etc.
 
-En esta charla, los asistentes aprenderán paso a paso cómo modelos LLM Open Source, como Mixtral-8x22B-v0.1, Mistral-7B (multi lenguaje), bloom-7b u otros modelos, son opciones muy interesantes para aprender a realizar “Fine-Tuning” y especializar modelo para el dominio específico. Además, se compartirá el rol de Python del proceso, la aplicación de módulos externos para tener una implementación simple, para realizar “Fine-Tuning” de LLMs.
