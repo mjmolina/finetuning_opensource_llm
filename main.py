@@ -104,9 +104,7 @@ if __name__ == "__main__":
                                      lora_r = 8)
     peft_model = get_peft_model(model2,peft_config)
     print(peft_model)
-    print ("hereeee")
     print(peft_model.print_trainable_parameters())
-    print ("hereeee")
 
     # Test initial model
     test_model(model, tokenizer)
